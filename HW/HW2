@@ -1,0 +1,29 @@
+# Code Smell: Message Chains
+
+## a) ความหมายของ Code Smell: Message Chains
+
+Message Chains คือ Code Smell ประเภทหนึ่งที่เกิดขึ้นเมื่อโค้ดมีการเรียก method หรือเข้าถึง object ต่อกันเป็นทอดยาว เช่น  
+`a.getB().getC().getD().doSomething()`  
+
+ลักษณะนี้ทำให้โค้ดมี **การพึ่งพากันสูง (High Coupling)** เพราะ object หนึ่งต้องรู้โครงสร้างภายในของ object อื่นหลายชั้น  
+หากมีการเปลี่ยนแปลงโครงสร้างของ object ใด object หนึ่ง จะส่งผลกระทบต่อโค้ดหลายจุด ทำให้ดูแลรักษายาก และผิดหลัก Encapsulation
+
+---
+
+## b) ตัวอย่างโค้ดที่เกิด Code Smell (Message Chains)
+
+ตัวอย่างโค้ดด้านล่างแสดงการเข้าถึงข้อมูลลูกค้าผ่าน object หลายชั้น
+
+```java
+String city = order.getCustomer()
+                   .getAddress()
+                   .getCity();
+
+# Code Example
+## // ในคลาส Order
+public String getCustomerCity() {
+    return customer.getAddress().getCity();
+}
+## String city = order.getCustomerCity();
+## String city = response.getData().getUser().getProfile().getCity();
+
