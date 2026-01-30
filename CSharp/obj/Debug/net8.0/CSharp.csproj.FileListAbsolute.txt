@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\bin\Debug\net8.0\CSharp.exe
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\bin\Debug\net8.0\CSharp.deps.json
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\bin\Debug\net8.0\CSharp.dll
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\bin\Debug\net8.0\CSharp.pdb
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.sourcelink.json
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.dll
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.pdb
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Bew\SASD2025\CSharp\obj\Debug\net8.0\ref\CSharp.dll
