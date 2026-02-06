@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\bin\Debug\net8.0\ClassDesign.exe
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\bin\Debug\net8.0\ClassDesign.deps.json
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\bin\Debug\net8.0\ClassDesign.runtimeconfig.json
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\bin\Debug\net8.0\ClassDesign.dll
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\bin\Debug\net8.0\ClassDesign.pdb
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.sourcelink.json
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.dll
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\refint\ClassDesign.dll
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.pdb
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ClassDesign.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Bew\03-20260130T071628Z-3-001\CraftDesign\obj\Debug\net8.0\ref\ClassDesign.dll
